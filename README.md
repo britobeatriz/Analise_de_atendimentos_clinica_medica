@@ -13,3 +13,4 @@ Algumas informações importantes:
 -	Os médicos podem solicitar exames aos pacientes. Quando isso ocorre, o exame fica vinculado ao médico, na base de dados da empresa.
 -	A empresa preferiu omitir os nomes dos médicos por questões de sigilo.
 
+![](/dashboard/dashboard.png)
